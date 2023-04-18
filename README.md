@@ -18,6 +18,9 @@ Growing up, my father and I bonded over our love for birds. I have been a follow
 <h3 align="left">Minimum Viable Product (MVP)</h3>
 I plan to present using a walkthrough of an interactive website using Google Sites or a story on Tableau. My presentation will cover top common species & the number of sightings in Nashville over time, both in protected wildlife areas and in heavily-developed urban areas. I plan to explore a few specific species whose populations seem to have dwindled or shifted in location of sightings. I will analyze how available forest land has fluctuated over time and how that may have influenced bird populations. I will end with drawing attention to the need to protect our native bird populations despite the aggressive growth of our city, as well as a short list of ways my audience can enjoy birding & support bird populations in their own backyard. My visualizations will include graphs, interactive maps, and pictures of bird species. My intended audience will vary from those interested in the conservation of middle Tennessee’s native fauna, to the casually interested birder.
 
+<h3 align="left">Stretch Goals</h3>
+As an additional goal, given enough time, I would like to include the USFWS regions along with their respective bird sightings on an interactive map using Folium.
+
 <h3 align="left">Known Issues and Challenges</h3>
 -	Cornell’s eBird database requires requesting data, specifying by species, date, and location to download manageably sized datasets
 -	There is a separate list that must be specifically requested called the “Sensitive Species” list; I have requested access to it, but have not heard back yet.
