@@ -133,3 +133,10 @@ data/
 
 # documents
 documents/
+
+# csv files
+birds_csvs/
+trees_csvs/
+
+# dashboards
+dashboarding/
