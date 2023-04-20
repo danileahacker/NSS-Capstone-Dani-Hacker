@@ -28,6 +28,7 @@ As an additional goal given time, I would like to explore the grouping of birds 
  -	The top most common birds are species that can thrive in even heavily urban environments; I have attempted to observe populations of birds that require quieter/more intact habitats in order to thrive. Specifically in Davidson county (which is growing more and more urbanized by the day), I have limited analysis to the 50-75% most common bird populations.
 
 <h3 align="left">Data Sources</h3>
+ 
  -	Cornell University’s Lab of Ornithology eBird database, restricted to sightings of all species in Tennessee between the years 2007 and 2016:
 	https://ebird.org/data/download
 
