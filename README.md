@@ -1,5 +1,5 @@
 <h1 align="center">NSS Final Capstone Project</h1>
-<h3 align="center">The Relationship of Bird Populations & Forests</h3>
+<h3 align="center">A Closer Look: Bird Populations & Forest Inventory of Tennessee</h3>
 
 <h3 align="left">Executive Summary</h3>
 
