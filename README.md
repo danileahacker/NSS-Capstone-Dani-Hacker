@@ -13,11 +13,11 @@ Growing up, my father and I bonded over our love for birds. I have been a follow
 
 <h3 align="left">Data Questions</h3>
 
--	How have the forests of Tennessee changed over time? How have the forests of Tennessee been influenced by disturbance, growth, and removals of trees? Is there a relationship between the amount of habitable forest land and the number of sightings?
+-	How have the forests of Tennessee changed over time? How have the forests of Tennessee been influenced by growth and removals of trees?
 
 -	Has the diversity of forests changed in any way? Are there more or less types of tree species growing that may affect bird habitats?
 
--	Are there any species that are more present/have a more established population now compared to earlier years? Are there any species that have maintained/increased population in urban areas despite deforestation?
+-	Are there any species of birds that are more present/have a more established population now compared to earlier years? Are there any species that have maintained/increased population in urban areas despite deforestation?
 
 -	Are there any species that have been influenced more than others? Are there any species that have become particularly scarce/new to the “Sensitive Species” list?
 
