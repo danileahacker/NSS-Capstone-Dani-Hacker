@@ -1,0 +1,314 @@
+,observation_year,common_name,count
+0,2007,American Avocet,1
+1,2007,Bank Swallow,1
+2,2007,Cerulean Warbler,2
+3,2007,Connecticut Warbler,3
+4,2007,Least Flycatcher,4
+5,2007,Lincoln's Sparrow,2
+6,2007,Mourning Warbler,7
+7,2007,Red-breasted Nuthatch,2
+8,2007,Willow Flycatcher,2
+9,2007,Yellow-bellied Flycatcher,1
+10,2008,American Pipit,1
+11,2008,American Woodcock,3
+12,2008,Bank Swallow,1
+13,2008,Black Tern,1
+14,2008,Cerulean Warbler,2
+15,2008,Connecticut Warbler,4
+16,2008,Dickcissel,3
+17,2008,Eurasian Collared-Dove,1
+18,2008,Forster's Tern,2
+19,2008,Least Flycatcher,8
+20,2008,Mourning Warbler,9
+21,2008,Northern Pintail,4
+22,2008,Olive-sided Flycatcher,1
+23,2008,Red-breasted Nuthatch,1
+24,2008,Snow Goose,1
+25,2008,Swainson's Warbler,6
+26,2008,Vesper Sparrow,1
+27,2008,Willow Flycatcher,3
+28,2008,Yellow-bellied Flycatcher,3
+29,2008,Yellow-crowned Night-Heron,2
+30,2009,American Pipit,3
+31,2009,American Tree Sparrow,1
+32,2009,American Woodcock,3
+33,2009,Bank Swallow,7
+34,2009,Black Tern,1
+35,2009,Cerulean Warbler,12
+36,2009,Connecticut Warbler,7
+37,2009,Dickcissel,3
+38,2009,Eurasian Collared-Dove,3
+39,2009,Forster's Tern,4
+40,2009,Greater Scaup,3
+41,2009,Henslow's Sparrow,24
+42,2009,Least Flycatcher,10
+43,2009,Lincoln's Sparrow,16
+44,2009,Marsh Wren,4
+45,2009,Merlin,2
+46,2009,Mourning Warbler,18
+47,2009,Northern Pintail,2
+48,2009,Olive-sided Flycatcher,9
+49,2009,Red-breasted Merganser,5
+50,2009,Red-breasted Nuthatch,5
+51,2009,Sedge Wren,3
+52,2009,Semipalmated Plover,3
+53,2009,Semipalmated Sandpiper,2
+54,2009,Snow Goose,21
+55,2009,Vesper Sparrow,2
+56,2009,Willow Flycatcher,17
+57,2009,Yellow-bellied Flycatcher,3
+58,2009,Yellow-crowned Night-Heron,2
+59,2010,American Pipit,3
+60,2010,American Woodcock,5
+61,2010,Black Tern,1
+62,2010,Bobolink,2
+63,2010,Cerulean Warbler,7
+64,2010,Connecticut Warbler,3
+65,2010,Eurasian Collared-Dove,2
+66,2010,Forster's Tern,1
+67,2010,Greater Yellowlegs,1
+68,2010,Henslow's Sparrow,11
+69,2010,Least Flycatcher,5
+70,2010,Lesser Yellowlegs,1
+71,2010,Lincoln's Sparrow,3
+72,2010,Long-tailed Duck,7
+73,2010,Marsh Wren,3
+74,2010,Merlin,6
+75,2010,Mourning Warbler,10
+76,2010,Northern Pintail,9
+77,2010,Olive-sided Flycatcher,4
+78,2010,Red-breasted Merganser,1
+79,2010,Red-breasted Nuthatch,7
+80,2010,Sedge Wren,3
+81,2010,Snow Goose,1
+82,2010,Willow Flycatcher,10
+83,2010,Yellow-bellied Flycatcher,3
+84,2010,Yellow-crowned Night-Heron,1
+85,2011,American Avocet,6
+86,2011,American Pipit,2
+87,2011,American Woodcock,3
+88,2011,Bank Swallow,10
+89,2011,Black Tern,20
+90,2011,Bobolink,5
+91,2011,Cerulean Warbler,12
+92,2011,Common Merganser,1
+93,2011,Connecticut Warbler,5
+94,2011,Dickcissel,6
+95,2011,Eurasian Collared-Dove,1
+96,2011,Forster's Tern,27
+97,2011,Greater Scaup,4
+98,2011,Greater Yellowlegs,7
+99,2011,Henslow's Sparrow,6
+100,2011,Least Flycatcher,7
+101,2011,Lesser Yellowlegs,5
+102,2011,Lincoln's Sparrow,8
+103,2011,Marsh Wren,9
+104,2011,Merlin,10
+105,2011,Mourning Warbler,12
+106,2011,Northern Pintail,5
+107,2011,Olive-sided Flycatcher,5
+108,2011,Pacific Loon,1
+109,2011,Pectoral Sandpiper,4
+110,2011,Red-breasted Merganser,7
+111,2011,Red-breasted Nuthatch,9
+112,2011,Sedge Wren,6
+113,2011,Semipalmated Plover,14
+114,2011,Semipalmated Sandpiper,10
+115,2011,Snow Goose,1
+116,2011,Swainson's Warbler,10
+117,2011,Vesper Sparrow,2
+118,2011,White-winged Scoter,5
+119,2011,Willet,3
+120,2011,Willow Flycatcher,12
+121,2011,Yellow-bellied Flycatcher,12
+122,2011,Yellow-crowned Night-Heron,5
+123,2012,American Pipit,9
+124,2012,American Woodcock,8
+125,2012,Black Tern,3
+126,2012,Bobolink,6
+127,2012,Cerulean Warbler,15
+128,2012,Common Merganser,9
+129,2012,Connecticut Warbler,5
+130,2012,Dickcissel,10
+131,2012,Eurasian Collared-Dove,9
+132,2012,Forster's Tern,10
+133,2012,Greater Scaup,1
+134,2012,Greater Yellowlegs,18
+135,2012,Henslow's Sparrow,17
+136,2012,Least Flycatcher,8
+137,2012,Lesser Yellowlegs,17
+138,2012,Lincoln's Sparrow,10
+139,2012,Marsh Wren,6
+140,2012,Merlin,7
+141,2012,Mourning Warbler,10
+142,2012,Northern Pintail,16
+143,2012,Olive-sided Flycatcher,2
+144,2012,Pacific Loon,4
+145,2012,Pectoral Sandpiper,15
+146,2012,Red-breasted Merganser,12
+147,2012,Red-breasted Nuthatch,25
+148,2012,Red-throated Loon,3
+149,2012,Sedge Wren,14
+150,2012,Semipalmated Plover,7
+151,2012,Semipalmated Sandpiper,5
+152,2012,Snow Goose,7
+153,2012,Swainson's Warbler,20
+154,2012,Vesper Sparrow,5
+155,2012,Western Grebe,5
+156,2012,Willow Flycatcher,8
+157,2012,Yellow-bellied Flycatcher,2
+158,2012,Yellow-crowned Night-Heron,11
+159,2013,American Avocet,11
+160,2013,American Pipit,9
+161,2013,American Woodcock,7
+162,2013,Bank Swallow,9
+163,2013,Black Tern,5
+164,2013,Bobolink,11
+165,2013,Cerulean Warbler,19
+166,2013,Connecticut Warbler,6
+167,2013,Dickcissel,7
+168,2013,Eurasian Collared-Dove,22
+169,2013,Forster's Tern,9
+170,2013,Greater Scaup,2
+171,2013,Greater Yellowlegs,17
+172,2013,Henslow's Sparrow,6
+173,2013,Least Flycatcher,13
+174,2013,Lesser Yellowlegs,19
+175,2013,Lincoln's Sparrow,18
+176,2013,Long-tailed Duck,25
+177,2013,Marsh Wren,7
+178,2013,Merlin,6
+179,2013,Mourning Warbler,19
+180,2013,Northern Pintail,4
+181,2013,Olive-sided Flycatcher,14
+182,2013,Pectoral Sandpiper,14
+183,2013,Red-breasted Merganser,23
+184,2013,Red-breasted Nuthatch,20
+185,2013,Sedge Wren,4
+186,2013,Semipalmated Plover,19
+187,2013,Semipalmated Sandpiper,6
+188,2013,Vesper Sparrow,2
+189,2013,Willet,8
+190,2013,Willow Flycatcher,10
+191,2013,Yellow-bellied Flycatcher,2
+192,2013,Yellow-crowned Night-Heron,6
+193,2014,American Avocet,9
+194,2014,American Pipit,7
+195,2014,American Tree Sparrow,11
+196,2014,American Woodcock,24
+197,2014,Bank Swallow,4
+198,2014,Black Tern,5
+199,2014,Bobolink,3
+200,2014,Cerulean Warbler,15
+201,2014,Common Merganser,6
+202,2014,Connecticut Warbler,1
+203,2014,Dickcissel,11
+204,2014,Eurasian Collared-Dove,21
+205,2014,Forster's Tern,14
+206,2014,Greater Scaup,6
+207,2014,Greater Yellowlegs,13
+208,2014,Henslow's Sparrow,2
+209,2014,Least Flycatcher,10
+210,2014,Lesser Yellowlegs,15
+211,2014,Lincoln's Sparrow,21
+212,2014,Long-tailed Duck,10
+213,2014,Marsh Wren,6
+214,2014,Merlin,14
+215,2014,Mourning Warbler,8
+216,2014,Northern Pintail,9
+217,2014,Pacific Loon,28
+218,2014,Pectoral Sandpiper,21
+219,2014,Red-breasted Merganser,19
+220,2014,Red-breasted Nuthatch,3
+221,2014,Red-throated Loon,1
+222,2014,Sedge Wren,3
+223,2014,Semipalmated Plover,13
+224,2014,Semipalmated Sandpiper,10
+225,2014,Snow Goose,8
+226,2014,Swainson's Warbler,2
+227,2014,Vesper Sparrow,10
+228,2014,White-winged Scoter,19
+229,2014,Willet,5
+230,2014,Willow Flycatcher,8
+231,2014,Yellow-bellied Flycatcher,3
+232,2014,Yellow-crowned Night-Heron,11
+233,2015,American Avocet,1
+234,2015,American Pipit,19
+235,2015,American Tree Sparrow,19
+236,2015,American Woodcock,15
+237,2015,Bank Swallow,21
+238,2015,Black Tern,3
+239,2015,Bobolink,8
+240,2015,Cerulean Warbler,12
+241,2015,Common Merganser,8
+242,2015,Connecticut Warbler,6
+243,2015,Dickcissel,17
+244,2015,Eurasian Collared-Dove,32
+245,2015,Forster's Tern,14
+246,2015,Greater Scaup,28
+247,2015,Greater Yellowlegs,43
+248,2015,Henslow's Sparrow,1
+249,2015,Least Flycatcher,16
+250,2015,Lesser Yellowlegs,40
+251,2015,Lincoln's Sparrow,9
+252,2015,Marsh Wren,8
+253,2015,Merlin,20
+254,2015,Mourning Warbler,13
+255,2015,Northern Pintail,20
+256,2015,Olive-sided Flycatcher,3
+257,2015,Pacific Loon,18
+258,2015,Pectoral Sandpiper,11
+259,2015,Red-breasted Merganser,25
+260,2015,Red-breasted Nuthatch,2
+261,2015,Red-throated Loon,32
+262,2015,Sedge Wren,13
+263,2015,Semipalmated Plover,15
+264,2015,Semipalmated Sandpiper,14
+265,2015,Snow Goose,17
+266,2015,Swainson's Warbler,3
+267,2015,Vesper Sparrow,10
+268,2015,Western Grebe,32
+269,2015,White-winged Scoter,16
+270,2015,Willet,5
+271,2015,Willow Flycatcher,8
+272,2015,Yellow-bellied Flycatcher,3
+273,2015,Yellow-crowned Night-Heron,18
+274,2016,American Avocet,18
+275,2016,American Pipit,15
+276,2016,American Tree Sparrow,8
+277,2016,American Woodcock,19
+278,2016,Bank Swallow,1
+279,2016,Black Tern,7
+280,2016,Bobolink,10
+281,2016,Cerulean Warbler,19
+282,2016,Common Merganser,14
+283,2016,Connecticut Warbler,5
+284,2016,Dickcissel,12
+285,2016,Eurasian Collared-Dove,16
+286,2016,Forster's Tern,10
+287,2016,Greater Scaup,10
+288,2016,Greater Yellowlegs,18
+289,2016,Henslow's Sparrow,2
+290,2016,Least Flycatcher,21
+291,2016,Lesser Yellowlegs,13
+292,2016,Lincoln's Sparrow,18
+293,2016,Long-tailed Duck,4
+294,2016,Marsh Wren,4
+295,2016,Merlin,10
+296,2016,Mourning Warbler,6
+297,2016,Northern Pintail,9
+298,2016,Olive-sided Flycatcher,7
+299,2016,Pacific Loon,8
+300,2016,Pectoral Sandpiper,25
+301,2016,Red-breasted Merganser,16
+302,2016,Red-breasted Nuthatch,22
+303,2016,Red-throated Loon,19
+304,2016,Sedge Wren,3
+305,2016,Semipalmated Plover,18
+306,2016,Semipalmated Sandpiper,16
+307,2016,Snow Goose,3
+308,2016,Vesper Sparrow,20
+309,2016,Willet,26
+310,2016,Willow Flycatcher,13
+311,2016,Yellow-bellied Flycatcher,7
+312,2016,Yellow-crowned Night-Heron,8

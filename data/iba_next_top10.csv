@@ -1,0 +1,101 @@
+,observation_year,common_name,count,total_count_by_year,perc_total_sightings
+0,2007,American Goldfinch,156,1430,10.91
+1,2007,Canada Goose,169,1430,11.82
+2,2007,Eastern Bluebird,160,1430,11.19
+3,2007,Eastern Towhee,106,1430,7.41
+4,2007,Indigo Bunting,131,1430,9.16
+5,2007,Mallard,144,1430,10.07
+6,2007,Mourning Dove,150,1430,10.49
+7,2007,Pileated Woodpecker,160,1430,11.19
+8,2007,Red-eyed Vireo,99,1430,6.92
+9,2007,White-breasted Nuthatch,155,1430,10.84
+10,2008,American Goldfinch,171,1573,10.87
+11,2008,Canada Goose,220,1573,13.99
+12,2008,Eastern Bluebird,220,1573,13.99
+13,2008,Eastern Towhee,114,1573,7.25
+14,2008,Indigo Bunting,123,1573,7.82
+15,2008,Mallard,184,1573,11.7
+16,2008,Mourning Dove,161,1573,10.24
+17,2008,Pileated Woodpecker,155,1573,9.85
+18,2008,Red-eyed Vireo,104,1573,6.61
+19,2008,White-breasted Nuthatch,121,1573,7.69
+20,2009,American Goldfinch,399,2978,13.4
+21,2009,Canada Goose,370,2978,12.42
+22,2009,Eastern Bluebird,366,2978,12.29
+23,2009,Eastern Towhee,250,2978,8.39
+24,2009,Indigo Bunting,264,2978,8.87
+25,2009,Mallard,263,2978,8.83
+26,2009,Mourning Dove,275,2978,9.23
+27,2009,Pileated Woodpecker,316,2978,10.61
+28,2009,Red-eyed Vireo,223,2978,7.49
+29,2009,White-breasted Nuthatch,252,2978,8.46
+30,2010,American Goldfinch,345,2858,12.07
+31,2010,Canada Goose,308,2858,10.78
+32,2010,Eastern Bluebird,276,2858,9.66
+33,2010,Eastern Towhee,305,2858,10.67
+34,2010,Indigo Bunting,288,2858,10.08
+35,2010,Mallard,217,2858,7.59
+36,2010,Mourning Dove,250,2858,8.75
+37,2010,Pileated Woodpecker,344,2858,12.04
+38,2010,Red-eyed Vireo,299,2858,10.46
+39,2010,White-breasted Nuthatch,226,2858,7.91
+40,2011,American Goldfinch,404,3857,10.47
+41,2011,Canada Goose,454,3857,11.77
+42,2011,Eastern Bluebird,375,3857,9.72
+43,2011,Eastern Towhee,399,3857,10.34
+44,2011,Indigo Bunting,374,3857,9.7
+45,2011,Mallard,344,3857,8.92
+46,2011,Mourning Dove,365,3857,9.46
+47,2011,Pileated Woodpecker,431,3857,11.17
+48,2011,Red-eyed Vireo,371,3857,9.62
+49,2011,White-breasted Nuthatch,340,3857,8.82
+50,2012,American Goldfinch,613,5976,10.26
+51,2012,Canada Goose,722,5976,12.08
+52,2012,Eastern Bluebird,637,5976,10.66
+53,2012,Eastern Towhee,544,5976,9.1
+54,2012,Indigo Bunting,577,5976,9.66
+55,2012,Mallard,594,5976,9.94
+56,2012,Mourning Dove,630,5976,10.54
+57,2012,Pileated Woodpecker,687,5976,11.5
+58,2012,Red-eyed Vireo,493,5976,8.25
+59,2012,White-breasted Nuthatch,479,5976,8.02
+60,2013,American Goldfinch,680,7064,9.63
+61,2013,Canada Goose,717,7064,10.15
+62,2013,Eastern Bluebird,774,7064,10.96
+63,2013,Eastern Towhee,764,7064,10.82
+64,2013,Indigo Bunting,626,7064,8.86
+65,2013,Mallard,604,7064,8.55
+66,2013,Mourning Dove,751,7064,10.63
+67,2013,Pileated Woodpecker,860,7064,12.17
+68,2013,Red-eyed Vireo,652,7064,9.23
+69,2013,White-breasted Nuthatch,636,7064,9.0
+70,2014,American Goldfinch,1029,9056,11.36
+71,2014,Canada Goose,988,9056,10.91
+72,2014,Eastern Bluebird,802,9056,8.86
+73,2014,Eastern Towhee,953,9056,10.52
+74,2014,Indigo Bunting,845,9056,9.33
+75,2014,Mallard,781,9056,8.62
+76,2014,Mourning Dove,1012,9056,11.17
+77,2014,Pileated Woodpecker,1054,9056,11.64
+78,2014,Red-eyed Vireo,802,9056,8.86
+79,2014,White-breasted Nuthatch,790,9056,8.72
+80,2015,American Goldfinch,1348,12346,10.92
+81,2015,Canada Goose,1234,12346,10.0
+82,2015,Eastern Bluebird,1019,12346,8.25
+83,2015,Eastern Towhee,1312,12346,10.63
+84,2015,Indigo Bunting,1101,12346,8.92
+85,2015,Mallard,1178,12346,9.54
+86,2015,Mourning Dove,1286,12346,10.42
+87,2015,Pileated Woodpecker,1516,12346,12.28
+88,2015,Red-eyed Vireo,1184,12346,9.59
+89,2015,White-breasted Nuthatch,1168,12346,9.46
+90,2016,American Goldfinch,1506,13977,10.77
+91,2016,Canada Goose,1466,13977,10.49
+92,2016,Eastern Bluebird,1269,13977,9.08
+93,2016,Eastern Towhee,1425,13977,10.2
+94,2016,Indigo Bunting,1192,13977,8.53
+95,2016,Mallard,1412,13977,10.1
+96,2016,Mourning Dove,1511,13977,10.81
+97,2016,Pileated Woodpecker,1595,13977,11.41
+98,2016,Red-eyed Vireo,1244,13977,8.9
+99,2016,White-breasted Nuthatch,1357,13977,9.71
